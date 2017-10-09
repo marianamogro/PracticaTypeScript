@@ -1,0 +1,10 @@
+{
+  "files": [
+    "src/model/animal/*.ts",
+    "src/index.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5"
+  }
+}
